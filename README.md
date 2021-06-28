@@ -1,4 +1,4 @@
-# Unichat Application
+# IChat Application
 
 This is a chat -application made by React, chatengine ,Google firebase and hosting is done by netlify.
 
